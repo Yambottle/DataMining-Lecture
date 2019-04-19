@@ -65,6 +65,14 @@
     * Apriori Algorithm  
 * Association rules
 
+# 5. Visualization(ggplot, R gallery)
+* Histogram
+* Box plot
+* Violin plot
+* Scatter plot
+* Contour plot(global temp)
+* Matrix plot
+* Parallel Coordinate plot(high dimens)
 
 
 
